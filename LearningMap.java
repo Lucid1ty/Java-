@@ -15,7 +15,7 @@ IDEA:https://www.bilibili.com/video/av30080993
 
 ------------------------------------------------------
 一：JAVA基础学习：
-1.尚硅谷_Java零基础教程（https://www.bilibili.com/video/av48144058）
+1.Java零基础教程https://www.bilibili.com/video/av48144058
 ------------------------------------------------------
 
 
